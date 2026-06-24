@@ -3,6 +3,19 @@
   "version": "1.0.10",
   "description": "Homebridge plugin to monitor and control Raypak heaters via the Raymote API.",
   "main": "index.js",
+  "author": "Josh Marr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarrmd/Homebridge-Raymote.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmarrmd/Homebridge-Raymote/issues"
+  },
+  "homepage": "https://github.com/jmarrmd/Homebridge-Raymote#readme",
+  "files": [
+    "index.js",
+    "config.schema.json"
+  ],
   "keywords": [
     "homebridge-plugin",
     "homebridge",
